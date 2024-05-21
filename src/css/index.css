@@ -88,6 +88,10 @@ input {
   gap: 3.2rem;
   align-items: center;
 }
+.actions {
+  display: flex;
+  gap: 1.2rem;
+}
 
 .actions button,
 .list select {
